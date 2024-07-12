@@ -1,4 +1,4 @@
-# Courier
+# Ghost-User-App
 
 Ghost Delivery consumer mobile app.
 
